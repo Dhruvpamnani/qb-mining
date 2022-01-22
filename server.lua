@@ -1,4 +1,4 @@
-QBCore = nil
+
 
 QBCore = exports['qb-core']:GetCoreObject()
 
